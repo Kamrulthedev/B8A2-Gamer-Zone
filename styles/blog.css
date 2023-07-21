@@ -194,7 +194,7 @@ font-family: Work Sans;
 /* section-2 related style */
 .section-3{
     width: 1920px;
-height: 5927px;
+height: 2927px;
 background: #FFF;
 }
 .games-prot{
@@ -221,6 +221,7 @@ background: #FFF;
     width: 342px;
      height: 400px;
     flex-shrink: 0;
+    margin-left: 10px;
   
   
 }
@@ -359,11 +360,84 @@ margin-bottom: -300px;
 height: 500px;
 margin-left: 850px;
 margin-top: -1000px;
+}
+/* section 4 related stlyes */
+.section-4{
+    width: 1920px;
+height: 427px;
+flex-shrink: 0;
+background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+margin-top: 0px;
+}
+.button-2{
+    width: 248px;
+height: 80px;
+border-radius: 50px;
+background: #FFF;
+display: flex;
+justify-content: center;
+margin-top: 30px;
+color:#0B0223 ;
+font-size: 20px;
+font-weight: 600;
+}
 
+.actioner{
+    display: flex;
+    justify-content: center;
+}
+.button-5{
+    width: 317px;
+height: 80px;
+flex-shrink: 0;
+border-radius: 50px;
+background: #FFF;
+color:#0B0223 ;
+font-size: 20px;
+font-weight: 600;
+display: flex;
+justify-content: center;
+gap: 10px;
+margin-top: 30px;
 
 }
+  .mujikfing{
+    display: flex;
+    justify-content: center;
+  }
+
 .cariaes{
  
+}
+.fdjklds{
+    width: 50px;
+    height: 50px;
+}
+.future{
+    width: 1920px;
+height: 636px;
+flex-shrink: 0;
+background: #0B0223;
+}
+.saldkfj{
+    margin-top: 200px;
+    margin-left: 48%;
+}
+.halsd{
+    font-size: 45px;
+    font-weight: 700;
+    color: #FF42A5;
+    margin-left: 200px;
+}
+.dfsaas{
+    font-size: 45px;
+    font-weight: 700;
+    color: #FFF;
+    margin-left: -200px;
+}
+.sdflkjas{
+    margin-left: 43%;
+    margin-top: -44px;
 }
 @media screen and (max-width:576px) {
  header{
