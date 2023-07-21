@@ -201,7 +201,7 @@ background: #FFF;
     font-size: 40px;
     font-weight: 700;
     color: #0B0223;
-    margin-left: 600px;
+    margin-left: 640px;
 }
 .spaner{
     font-size: 48px;
@@ -212,7 +212,7 @@ background: #FFF;
     color: #534C64;
     font-size: 18px;
     font-weight: 400;
-    margin-left: 650px;
+    margin-left: 690px;
     margin-top: -18px;
 }
 
@@ -221,7 +221,7 @@ background: #FFF;
     width: 342px;
      height: 400px;
     flex-shrink: 0;
-    margin-left: 10px;
+    margin-left: 50px;
   
   
 }
