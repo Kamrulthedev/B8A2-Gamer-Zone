@@ -439,6 +439,48 @@ background: #0B0223;
     margin-left: 43%;
     margin-top: -44px;
 }
+.footerdf{
+    color: #FFF;
+font-size: 18px;
+font-weight: 600;
+list-style: none;
+display: flex;
+gap: 60px;
+margin-left: 630px;
+margin-top: 60px;
+}
+.kmrimger{
+    width: 40px;
+height: 40px;
+flex-shrink: 0;
+}
+.kamruler{
+    display: flex;
+    gap: 60px;
+    margin-left: 800px;
+    margin-top: 40px;
+}
+.rihanrer{
+    color: rgba(255, 255, 255, 0.60);
+font-size: 16px;
+font-weight: 500;
+list-style: none;
+display: flex;
+gap: 60px;
+margin-left: 720px;
+margin-top: 30px;
+}
+.lksadjflkj{
+    color: rgba(255, 255, 255, 0.60);
+text-align: center;
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-left: 150px;
+margin-top: 60px;
+}
 @media screen and (max-width:576px) {
  header{
    
