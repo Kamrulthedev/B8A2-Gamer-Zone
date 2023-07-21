@@ -1,96 +1,118 @@
 /* hader related style */
-.imgr{
-    width: 86.041px;
-height: 40px;
-flex-shrink: 0;
-margin-left: 120px;
-}
-.ulclaess li{
-   text-decoration: none;
-   color: #3C354F;
-   display: flex;
-   justify-content: center;
-  margin-left: 1100px;
- 
-}
-.violat{
-    width: 18px;
-}
-.unspes{
-    border-radius: 8px;
-background: rgba(11, 2, 35, 0.10);
-     justify-content: center;
-     margin-left: 1100px;
-     padding: 0px;
-}
-.span{
-    color: coral;
-}
-.gann{
-    color: #0B0223;
-    font-size: 45px;
-    font-weight: 700;
-    margin-bottom: 60px;
-    margin-top: 0px;
-    margin-left: 10px;
-}
-.nav-class{
+header{
     background: #FFF;
-    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+  padding-left: 100px;
+  padding-top: 50px;
+}
+.imges{
+    width: 150px;
+    height: 50%;
+    margin-top: 25px;
+}
+nav{
     display: flex;
+       justify-content: space-between;
+}
+.dissp{
+    display: flex;
+}
+.gamer{
+    font-size:45px ;
+    color: #FF42A5;
 
 }
-/* hader stlye end */
-/* mainrelated style */
-.main-contauner{
-    width: 420px;
-    height: 400px;
-    flex-shrink: 0;
-    background-color:snow;
+.bodyed{
+    font-size: 45px;
+    margin-top: 30px;
+
+   
 }
-.gotherr{
-    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
-background-clip: text;
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-font-size: 60px;
-margin-left: 60px;
+.button{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    border-radius: 8px;
+    background: rgba(11, 2, 35, 0.10);
 }
-.btn-container{
-    border-radius: 48px;
-    background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
-    display: inline-flex;
-padding: 21px 40px;
-align-items: flex-start;
-gap: 10px;
+.conect{
+  border:1px solid #FFF;
+  justify-content: center;
+
 }
-.btn-containat{
-    display: inline-flex;
-padding: 21px 40px;
-align-items: flex-start;
-gap: 10px;
-border-radius: 48px;
-background: #4EC5F7;
+.gnna{
+    width: 18px;
 }
-.canter{
+.gnnanm{
+    width: 18px;
+}
+ .cunpess{
+    display: flex;
+ }
+ .cunpess li{
+    list-style: none;
+    margin-left: 30px;
+    font-weight: 500;
+    color: #3C354F;
+    font-size: 18px;
+ }
+ /* hader style coolsed */
+ /* main related style */
+ .commpany{
     color: #0B0223;
-text-align: center;
-font-family: Work Sans;
-font-size: 48px;
-font-style: normal;
-font-weight: 600;
-line-height: normal;
-text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 600;
+    margin-left: 100px;
+    margin-top: 100px;
+ }
+ .containt{
+    font-size: 80px;
+    font-weight: 800;
+  margin-left: 90px;
+    color:darkviolet ;
+    margin-top: -25px;
+ }
+ .insates{
+    color: #534C64;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 105px;
+    margin-top:-55px;
+ }
+ .btn-primary{
+   color:#0B0223; 
+    background-color: #FF42A5;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 21px 40px;
+    gap: 15px;
+    border-radius: 48px;
+ }
+.btn-primarys{
+    color:#0B0223; 
+    background-color: cyan;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 21px 40px;
+    gap: 15px;
+    border-radius: 48px;
 }
-.diver{
-    margin-left: 60px;
+.faek{
+    margin-left: 90px;
+
 }
-.imgser-img{
-    margin-left: 800pxpx ;
-    margin-bottom: 50px;
-     margin-top: 0px;
-        
+
+ section{
+    background-color: #FFF;
+    background-image: image-set();
+ }
+
+
+@media screen and (max-width:576px) {
+
+    
 }
-.contant-section{
-    background: #FFF;
+@media screen and (min-width:576px) and(max-width:960px)
+ {
+    
 }
