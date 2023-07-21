@@ -22,6 +22,12 @@ nav{
     color: #FF42A5;
 
 }
+.ameryi{
+    color: #0B0223;
+    font-size: 45px;
+    font-weight: 700;
+   margin-left: -200px;
+}
 .bodyed{
     font-size: 45px;
     margin-top: 30px;
@@ -62,13 +68,13 @@ nav{
     color: #0B0223;
     font-size: 40px;
     font-weight: 600;
-    margin-left: 100px;
-    margin-top: 100px;
+    margin-left: 150px;
+    margin-top: 80px;
  }
  .containt{
     font-size: 80px;
     font-weight: 800;
-  margin-left: 90px;
+  margin-left: 140px;
     color:darkviolet ;
     margin-top: -25px;
  }
@@ -76,7 +82,7 @@ nav{
     color: #534C64;
     font-size: 20px;
     font-weight: 500;
-    margin-left: 105px;
+    margin-left: 155px;
     margin-top:-55px;
  }
  .btn-primary{
@@ -98,18 +104,98 @@ nav{
     border-radius: 48px;
 }
 .faek{
-    margin-left: 90px;
+    margin-left: 140px;
 
 }
+
+
 
  section{
     background-color: #FFF;
     background-image: image-set();
  }
 
+ /* end */
+ /* div staring */
+ .imgr-dooll{
+    width: 520px;
+    height: 527px;
+    background: #FFF;
+    margin-top: -30px;
+   
+ }
+
+ .section-1{
+    display: flex;
+    justify-content: space-between;
+ }
+
+/* secktion-2 related style */
+.section-2{
+    background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+    width: 1920px;
+height: 600px;
+flex-shrink: 0;
+display: flex;
+justify-content: space-between;
+}
+.img-1{
+    width: 600px;
+    height: 400px;
+   margin-left: 100px;
+}
+
+.minering{
+    font-size: 48px;
+    font-weight: 700;
+    color:#8758F1  ;
+    margin-right: 200px;
+}
+.pargrup{
+    color: #534C64;
+    font-size: 18px;
+    font-weight: 400px;
+    line-height: 30px; 
+    width: 400px;
+    margin-right: 200px;
+}
+.button-1{
+    padding: 21px 40px;
+    border-radius: 48px;
+    gap: 10px;
+    background-color: #FF42A5;
+    margin-right: 200px;
+}
+.unples{
+    color: #534C64;
+    font-size: 24px;
+    font-weight: 100px;
+    line-height: 45px;
+    text-align: right;
+font-family: Work Sans;
+margin-right: 200px;
+}
+span{
+    color: #534C64;
+    font-size: 32px;
+    font-weight: 200;
+    line-height: 45px;
+    text-align: right;
+font-family: Work Sans;
+margin-right: 200px;
+
+}
+.gaping{
+    margin-left: 50px;
+    margin-right: 100px;
+    text-align: right;
+font-family: Work Sans;
+}
 
 @media screen and (max-width:576px) {
-
+ header{
+   
+ }
     
 }
 @media screen and (min-width:576px) and(max-width:960px)
