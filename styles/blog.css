@@ -191,7 +191,180 @@ margin-right: 200px;
     text-align: right;
 font-family: Work Sans;
 }
+/* section-2 related style */
+.section-3{
+    width: 1920px;
+height: 5927px;
+background: #FFF;
+}
+.games-prot{
+    font-size: 40px;
+    font-weight: 700;
+    color: #0B0223;
+    margin-left: 600px;
+}
+.spaner{
+    font-size: 48px;
+    font-weight: 700;
+    color: #8758F1;
+}
+.Videos{
+    color: #534C64;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 650px;
+    margin-top: -18px;
+}
 
+.card{
+    border-radius: 16px;
+    width: 342px;
+     height: 400px;
+    flex-shrink: 0;
+  
+  
+}
+.Rectangle{
+    display: flex;
+    gap: 24px;
+    margin-left: 130px;
+}
+.lakeing{
+    color: #534C64;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+}
+/* new img relatede style */
+.caltibate{
+    margin-top: 300px;
+}
+
+   
+
+.potol{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+    color: #F948B2;
+    margin-left: 300px;
+}
+.caltibte{
+    color: #0B0223;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+    margin-left: -200px;
+    width: 300px;
+}
+.related{
+    color: #534C64;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; 
+    width: 300px;
+    margin-left: 400px;
+}
+.myimges{
+    margin-left: 700px;
+    margin-top: -100px;
+}
+.tripol{
+    margin-top: 200px;
+    margin-left: 980px;
+    width: 300px;
+}
+.spaimg{
+    color:#F948B2 ;
+     font-size: 40px;
+     font-weight: 700;
+     line-height: 60px;
+}
+.Anytime{
+    color: #0B0223;
+font-size: 40px;
+font-weight: 700;
+line-height: 60px;
+margin-left: -200px;
+}
+.japiling{
+    color: #534C64;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+width: 300pxs;
+}
+.Hilarious{
+    margin-left: 195px;
+    color: #0B0223;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+}
+/* new div arterimg */
+.caretise{
+    background-color:#FF42A5 ;
+}
+.careers{
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+line-height: 60px; 
+margin-left: 150px;
+margin-top: 200px;
+
+
+
+}
+.picser{
+    color: #FFF;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+width: 500px;
+margin-left: 150px;
+margin-top: 150px;
+}
+.hakl{
+    color: #FFF;
+font-size: 20px;
+font-weight: 600;
+line-height: 50px;
+
+}
+.halsd{
+    color: #FFF;
+font-size: 20px;
+font-weight: 600;
+line-height: 40px;
+}
+.lakdjfd{
+    display: flex;
+    gap: 40px;
+    margin-left: 150px;
+}
+.kasdflk{
+    border-radius: 48px;
+background: #FFF;
+display: inline-flex;
+padding: 21px 40px;
+align-items: flex-start;
+gap: 10px;
+margin-left: 200px;
+margin-top: -300px;
+margin-bottom: -300px;
+}
+.kljklds{
+    width: 600px;
+height: 500px;
+margin-left: 850px;
+margin-top: -1000px;
+
+
+}
+.cariaes{
+ 
+}
 @media screen and (max-width:576px) {
  header{
    
